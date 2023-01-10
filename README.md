@@ -33,11 +33,11 @@ jupyter-lab
 ```
 
 > **Warning**
-> It may not work due to the environment difference  
+> If you just want to reproduce the prediction, it is no need to execute this file. It may fail.
 
 > Execute [0816120_Final_train.ipynb](https://github.com/wumengwei0213/CS_CS20024_final_project/blob/34ee68394a940aeb41e535c5c7d6e301094cc7a9/0816120_Final_train.ipynb) You can see how it do training  
 
-## Get the Predction
+## Get the Prediction
 
 > **Note**
 > Please do it after installing the required module
